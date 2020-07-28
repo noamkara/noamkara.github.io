@@ -1,4 +1,4 @@
 body {
   background-color: red;
-  background-image: url('javascript:alert("XSS");')
+  background-image: url('background-image: url("https://httpbin.org/basic-auth/user/passwd")
 }
