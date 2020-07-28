@@ -1,12 +1,4 @@
 body {
-  background-color: lightblue;
+  background-color: red;
+  background-image: url('javascript:alert("XSS");')
 }
-
-h1 {
-  color: red;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  fon
