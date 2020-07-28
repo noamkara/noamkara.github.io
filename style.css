@@ -1,14 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-div  {
-    background-image: url("data:image/jpg;base64,<\/style><svg/onload=alert(document.domain)>");
-    background-color: #cccccc;
+body {
+  background-color: lightblue;
 }
-</style>
-</head>
-  <body>
-    <div>lol</div>
-  </body>
-</html>
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  fon
